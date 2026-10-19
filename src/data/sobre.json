@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Aluguel de caçamba com entrega rápida em São Paulo",
+    "desc": "Somos uma empresa de locação de caçambas para entulho com frota própria, atendendo a capital paulista da Zona Sul à Zona Leste. Entregamos caçambas de 3m³, 4m³ e 5m³ para obra, reforma e limpeza de terreno, com agendamento ágil e destinação correta dos resíduos em aterros licenciados.",
+    "image": ""
+  },
+  "content": {
+    "missionTitle": "Nosso compromisso",
+    "missionText": "Acreditamos que entulho parado atrapalha a obra e incomoda a vizinhança. Por isso entregamos a caçamba no horário combinado e fazemos a retirada assim que você avisa que encheu, sem deixar o cliente esperando.\n\nTrabalhamos com transportador cadastrado e destinação em aterro licenciado, para que o descarte do seu entulho fique dentro da lei e sem dor de cabeça.",
+    "teamTitle": "Quem faz o serviço",
+    "teamText": "Por trás de cada entrega existe uma equipe de motoristas e operadores que posiciona a caçamba no ponto certo, respeita a calçada e o trânsito e recolhe tudo limpo. É esse cuidado que mantém a obra organizada do começo ao fim."
+  },
+  "seo": {
+    "title": "",
+    "description": "",
+    "image": ""
+  }
+}

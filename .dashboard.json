@@ -1,0 +1,24 @@
+{
+  "slug": "aluguel-de-cacamba",
+  "niche": "aluguel de caçamba",
+  "domain": "aluguel-de-cacamba.vercel.app",
+  "stage": 8,
+  "stageLabel": "site no ar — conectado 8links (SSR)",
+  "siteName": "Caçamba SP",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "createdAt": 1750294800000,
+  "target": "8links",
+  "network_site_id": 178,
+  "vercel_project_id": "prj_73DPv8e0vkjWThvDofxNUwic0qCt",
+  "vercel_deploy_url": "https://aluguel-de-cacamba.vercel.app",
+  "vercel_deploy_id": "dpl_Cwb52exkKZ34AfYgusPfkcPxGjFc",
+  "vercel_team_id": "team_2p65EBbQcfDbpNPLwsUNM7L8",
+  "github_repo": "https://github.com/8linksapp-maker/aluguel-de-cacamba",
+  "lastEvent": {
+    "kind": "bootstrap",
+    "detail": "site bootstrapped (8links direct, SSR) — id=178 deploy=https://aluguel-de-cacamba.vercel.app projectId=prj_73DPv8e0vkjWThvDofxNUwic0qCt team=team_2p65EBbQcfDbpNPLwsUNM7L8 (Hobby/8links-projects) via CLI upload (GitHub App nao conectado ao team)",
+    "at": 1781861700000
+  },
+  "updatedAt": 1781861700000
+}

@@ -1,0 +1,276 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Aluguel de caçamba em São Paulo",
+        "title": "Caçamba para entulho entregue no mesmo dia.",
+        "lead": "Caçamba para obra, reforma e limpeza de terreno na capital paulista, com retirada no prazo e descarte de resíduos regularizado. Orçamento na hora.",
+        "cta": {
+          "label": "Pedir orçamento",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "230+ avaliações"
+        },
+        "doctor": {
+          "name": "Frota própria",
+          "role": "Entrega e retirada",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 7h às 18h • Sáb até 13h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+10 anos alugando caçamba em SP",
+        "eyebrow": "Sobre a empresa",
+        "title": "Caçamba na hora certa, do pedido à retirada.",
+        "lead": "Cuidamos de cada etapa: entrega no ponto combinado, troca quando enche e destinação do entulho em aterro licenciado.",
+        "benefits": [
+          "Frota própria de caminhões e caçambas",
+          "Caçambas de 3m³, 4m³ e 5m³",
+          "Entrega no mesmo dia em São Paulo",
+          "Descarte regularizado em aterro licenciado"
+        ],
+        "cta": {
+          "label": "Conheça a empresa",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos serviços",
+        "title": "Caçamba para obra, reforma e terreno.",
+        "items": [
+          {
+            "title": "Aluguel de caçamba",
+            "text": "Caçamba para entulho com entrega no mesmo dia."
+          },
+          {
+            "title": "Caçamba para reforma",
+            "text": "Tamanho ideal para reforma de casa e apartamento."
+          },
+          {
+            "title": "Retirada de entulho",
+            "text": "Recolhemos o entulho acumulado na obra ou calçada."
+          },
+          {
+            "title": "Caçamba para limpeza de terreno",
+            "text": "Mato, poda e entulho misto recolhidos de uma vez."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os serviços",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "10+",
+            "label": "Anos no mercado"
+          },
+          {
+            "value": "20mil+",
+            "label": "Caçambas entregues"
+          },
+          {
+            "value": "mesmo dia",
+            "label": "Prazo médio de entrega"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes satisfeitos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que nos escolher",
+        "title": "Caçamba entregue rápido e recolhida no prazo.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Entrega no mesmo dia",
+            "text": "Disponibilidade para grande parte de São Paulo."
+          },
+          {
+            "title": "Frota própria",
+            "text": "Caminhões e caçambas próprios, sem terceirizar."
+          },
+          {
+            "title": "Orçamento transparente",
+            "text": "Preço fechado pelo WhatsApp, sem surpresa."
+          },
+          {
+            "title": "Retirada ágil",
+            "text": "Recolhemos assim que a caçamba enche."
+          },
+          {
+            "title": "Descarte legal",
+            "text": "Destinação em aterro licenciado já inclusa."
+          },
+          {
+            "title": "Vários tamanhos",
+            "text": "Caçambas de 3m³, 4m³ e 5m³ para cada volume."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do pedido à retirada.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Pedido",
+            "text": "Informe o endereço e o tipo de entulho pelo WhatsApp."
+          },
+          {
+            "n": "02",
+            "title": "Entrega",
+            "text": "Levamos a caçamba ao ponto combinado, no prazo."
+          },
+          {
+            "n": "03",
+            "title": "Retirada",
+            "text": "Recolhemos a caçamba assim que você avisa que encheu."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Quem entrega e recolhe sua caçamba.",
+        "members": [
+          {
+            "name": "Atendimento",
+            "role": "Orçamento e suporte",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Motoristas",
+            "role": "Entrega e retirada",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Logística",
+            "role": "Gestão da frota",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Operação",
+            "role": "Descarte e aterro",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Pedi de manhã e a caçamba chegou no mesmo dia. Atendimento muito rápido.",
+            "name": "Roberto L.",
+            "role": "Santo Amaro"
+          },
+          {
+            "quote": "Retiraram assim que avisei que encheu. Sem entulho parado na rua.",
+            "name": "Mariana D.",
+            "role": "Tatuapé"
+          },
+          {
+            "quote": "Usei para limpar o terreno antes de construir. Recolheram tudo direitinho.",
+            "name": "Thiago L.",
+            "role": "Santana"
+          }
+        ]
+      }
+    },
+    {
+      "type": "antesDepois",
+      "props": {
+        "eyebrow": "Resultados",
+        "title": "Antes e depois.",
+        "items": [
+          {
+            "label": "Terreno limpo",
+            "before": "/images/before-1.jpg",
+            "after": "/images/after-1.jpg"
+          },
+          {
+            "label": "Obra organizada",
+            "before": "/images/before-2.jpg",
+            "after": "/images/after-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas sobre caçamba e entulho.",
+        "items": [
+          {
+            "title": "Qual tamanho de caçamba escolher",
+            "excerpt": "3m³, 4m³ ou 5m³: como acertar pelo volume da obra.",
+            "image": "/images/post-1.jpg",
+            "href": "/blog/qual-tamanho-de-cacamba-escolher"
+          },
+          {
+            "title": "O que pode ir na caçamba",
+            "excerpt": "O que pode e o que não pode descartar no entulho.",
+            "image": "/images/post-2.jpg",
+            "href": "/blog/o-que-pode-ir-na-cacamba"
+          },
+          {
+            "title": "Caçamba na rua precisa de autorização?",
+            "excerpt": "Como deixar a caçamba na via sem levar multa.",
+            "image": "/images/post-3.jpg",
+            "href": "/blog/cacamba-na-rua-autorizacao"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Peça seu orçamento de caçamba sem compromisso.",
+        "services": [
+          "Aluguel de caçamba",
+          "Caçamba para reforma",
+          "Caçamba para obra",
+          "Retirada de entulho",
+          "Caçamba para limpeza de terreno"
+        ]
+      }
+    }
+  ]
+}

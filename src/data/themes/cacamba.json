@@ -1,0 +1,17 @@
+{
+  "name": "Caçamba",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#FBF6EF",
+    "ink": "#1B2430",
+    "ink-muted": "#51606F",
+    "primary": "#1B2430",
+    "secondary": "#92500B",
+    "accent": "#F59E0B",
+    "accent-ink": "#2A1A04",
+    "accent-strong": "#92500B",
+    "border": "#ECE4D8"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

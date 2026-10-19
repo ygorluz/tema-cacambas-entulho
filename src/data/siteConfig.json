@@ -1,0 +1,25 @@
+{
+  "name": "Caçamba SP",
+  "segmento": "Aluguel de caçamba",
+  "schemaType": "LocalBusiness",
+  "postUrlPrefix": "",
+  "description": "Aluguel de caçamba para entulho em São Paulo: caçamba para obra, reforma e limpeza de terreno, com entrega rápida, retirada no prazo e descarte de resíduos regularizado. Peça seu orçamento.",
+  "ctaLabel": "Pedir orçamento",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@cacambasp.com.br",
+  "address": "São Paulo, SP",
+  "hours": "Seg a Sex, 7h às 18h • Sáb, 7h às 13h",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Rua Exemplo, 0000 — galpão 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "00000-000",
+    "country": "BR",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=S%C3%A3o+Paulo+SP&output=embed"
+  }
+}

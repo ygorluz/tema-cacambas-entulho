@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a Caçamba SP",
+    "description": "Aluguel de caçamba para entulho em São Paulo com frota própria e descarte regularizado. Conheça a Caçamba SP e como atendemos obras e reformas na capital."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a empresa",
+      "title": "Caçamba na hora certa, do pedido à retirada.",
+      "lead": "Atendemos obras e reformas em toda a capital paulista, com entrega ágil e destinação correta do entulho.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "10+ anos de experiência",
+      "title": "Locação de caçamba com quem entende de obra.",
+      "lead": "Atendemos desde a reforma de um banheiro até obras de construtoras, sempre com entrega no prazo e descarte regularizado.",
+      "benefits": [
+        "Frota própria de caminhões e caçambas",
+        "Caçambas de 3m³, 4m³ e 5m³",
+        "Entrega no mesmo dia em São Paulo",
+        "Descarte em aterro licenciado"
+      ],
+      "cta": { "label": "Pedir orçamento", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "20mil+", "label": "Caçambas entregues" },
+        { "value": "6", "label": "Regiões atendidas" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do pedido à retirada.",
+      "steps": [
+        { "n": "01", "title": "Pedido", "text": "Informe o endereço e o tipo de entulho pelo WhatsApp." },
+        { "n": "02", "title": "Entrega", "text": "Levamos a caçamba ao ponto combinado, no prazo." },
+        { "n": "03", "title": "Retirada", "text": "Recolhemos a caçamba assim que você avisa que encheu." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Pedi de manhã e a caçamba chegou no mesmo dia. Atendimento muito rápido.", "name": "Roberto L.", "role": "Cliente — Santo Amaro" },
+        { "quote": "Retiraram a caçamba assim que avisei que encheu. Sem entulho parado na rua.", "name": "Mariana D.", "role": "Cliente — Tatuapé" },
+        { "quote": "Usei para limpar o terreno antes de construir. Recolheram tudo direitinho.", "name": "Thomas L.", "role": "Cliente — Santana" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Aluguel de caçamba", "Caçamba para reforma", "Caçamba para obra", "Caçamba 3m³", "Caçamba 5m³", "Retirada de entulho", "Caçamba para construtoras", "Descarte de resíduos", "Caçamba para limpeza de terreno"]
+    }}
+  ]
+}

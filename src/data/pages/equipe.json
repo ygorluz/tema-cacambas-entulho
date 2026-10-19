@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Caçamba SP",
+    "description": "Motoristas e operadores que entregam e recolhem caçambas em São Paulo com agilidade e cuidado. Conheça o time da Caçamba SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Quem entrega e recolhe sua caçamba.",
+      "lead": "Motoristas e operadores que posicionam a caçamba no ponto certo e recolhem tudo limpo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Atendimento e orçamento", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Motorista — entrega e retirada", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Logística da frota", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Operação e descarte", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "20mil+", "label": "Caçambas entregues" },
+        { "value": "6", "label": "Regiões atendidas" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Aluguel de caçamba", "Caçamba para reforma", "Caçamba para obra", "Caçamba 3m³", "Caçamba 5m³", "Retirada de entulho", "Caçamba para construtoras", "Descarte de resíduos", "Caçamba para limpeza de terreno"]
+    }}
+  ]
+}

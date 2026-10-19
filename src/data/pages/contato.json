@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — Caçamba SP",
+    "description": "Fale com a Caçamba SP: WhatsApp, e-mail e atendimento em São Paulo. Tire dúvidas ou solicite orçamento de aluguel de caçamba para entulho."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para atender você.",
+      "lead": "Mande mensagem, ligue ou chame no WhatsApp — orçamento rápido e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte qual caçamba você precisa.",
+      "services": ["Aluguel de caçamba", "Caçamba para reforma", "Caçamba para obra", "Caçamba 3m³", "Caçamba 5m³", "Retirada de entulho", "Caçamba para construtoras", "Descarte de resíduos", "Caçamba para limpeza de terreno"]
+    }}
+  ]
+}

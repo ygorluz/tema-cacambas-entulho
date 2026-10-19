@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Aluguel de caçamba",
+    "slug": "aluguel-de-cacamba"
+  },
+  {
+    "name": "Obra e reforma",
+    "slug": "obra-e-reforma"
+  },
+  {
+    "name": "Entulho e descarte",
+    "slug": "entulho-e-descarte"
+  },
+  {
+    "name": "Limpeza de terreno",
+    "slug": "limpeza-de-terreno"
+  },
+  {
+    "name": "Dicas e orientações",
+    "slug": "dicas-e-orientacoes"
+  }
+]

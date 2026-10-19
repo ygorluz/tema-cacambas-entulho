@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "santo-amaro",
+    "nome": "Santo Amaro",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Campo Belo",
+      "Brooklin",
+      "Santo Amaro",
+      "Chácara Santo Antônio"
+    ],
+    "referenciaLocal": "Atendemos toda a região de Santo Amaro, das obras comerciais da Av. Adolfo Pinheiro às reformas em casas e prédios do entorno, com entrega rápida de caçamba.",
+    "faq": [
+      {
+        "q": "Vocês entregam caçamba no mesmo dia em Santo Amaro?",
+        "a": "Sim. Para Santo Amaro e bairros vizinhos da Zona Sul, conseguimos entregar a caçamba no mesmo dia quando há disponibilidade na frota."
+      },
+      {
+        "q": "Posso deixar a caçamba na rua em Santo Amaro?",
+        "a": "Pode, desde que respeite a sinalização e o espaço da via. Orientamos a posição correta para não atrapalhar o trânsito do bairro."
+      }
+    ]
+  },
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Anália Franco",
+      "Vila Formosa",
+      "Carrão",
+      "Água Rasa"
+    ],
+    "referenciaLocal": "Levamos caçambas para todo o Tatuapé, dos prédios em reforma perto do Shopping Anália Franco às obras residenciais das ruas internas do bairro.",
+    "faq": [
+      {
+        "q": "Atendem reformas de apartamento no Tatuapé?",
+        "a": "Sim. Entregamos a caçamba no ponto combinado com o condomínio e orientamos sobre o horário de carga e descarga em prédios do Tatuapé."
+      },
+      {
+        "q": "Qual caçamba é melhor para reforma de apartamento?",
+        "a": "Para a reforma de um cômodo, a caçamba de 3m³ resolve. Para reforma completa, indicamos a de 4m³ ou 5m³."
+      }
+    ]
+  },
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Madalena",
+      "Jardim Paulistano",
+      "Itaim Bibi",
+      "Alto de Pinheiros"
+    ],
+    "referenciaLocal": "Atendemos Pinheiros e a Vila Madalena, das reformas de lojas e escritórios às obras em casas e sobrados das ruas residenciais da região.",
+    "faq": [
+      {
+        "q": "Cabe caçamba nas ruas estreitas de Pinheiros?",
+        "a": "Cabe. Em ruas mais estreitas indicamos a caçamba de 3m³, que ocupa menos espaço e facilita a entrega e a manobra do caminhão."
+      },
+      {
+        "q": "Fazem retirada de entulho de reforma comercial?",
+        "a": "Fazemos. Atendemos reformas de lojas e escritórios em Pinheiros com retirada agendada conforme o horário do estabelecimento."
+      }
+    ]
+  },
+  {
+    "slug": "santana",
+    "nome": "Santana",
+    "prep": "em",
+    "regiao": "Zona Norte de São Paulo",
+    "bairrosVizinhos": [
+      "Casa Verde",
+      "Tucuruvi",
+      "Mandaqui",
+      "Vila Guilherme"
+    ],
+    "referenciaLocal": "Atendemos Santana e toda a Zona Norte, das reformas residenciais às obras próximas ao Metrô e à Av. Cruzeiro do Sul, com agendamento ágil.",
+    "faq": [
+      {
+        "q": "Entregam caçamba para limpeza de terreno em Santana?",
+        "a": "Sim. Para limpeza de terreno na Zona Norte indicamos a caçamba de 5m³, que recolhe mato, podas e entulho misto em menos retiradas."
+      },
+      {
+        "q": "Quanto tempo posso ficar com a caçamba?",
+        "a": "O período padrão é de alguns dias. Quando encher antes, é só avisar que agendamos a retirada para o mesmo dia ou o seguinte."
+      }
+    ]
+  },
+  {
+    "slug": "mooca",
+    "nome": "Mooca",
+    "prep": "na",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Brás",
+      "Belém",
+      "Tatuapé",
+      "Ipiranga"
+    ],
+    "referenciaLocal": "Levamos caçambas para toda a Mooca, dos galpões e obras comerciais do bairro às reformas em prédios e casas das ruas tradicionais da região.",
+    "faq": [
+      {
+        "q": "Atendem obras comerciais e galpões na Mooca?",
+        "a": "Sim. Atendemos obras comerciais na Mooca com fornecimento de caçambas e retiradas programadas conforme o ritmo do canteiro."
+      },
+      {
+        "q": "Que tipo de entulho posso colocar na caçamba?",
+        "a": "Pode colocar entulho de obra: concreto, tijolo, madeira e gesso. Lixo doméstico, químicos e eletrônicos não são permitidos."
+      }
+    ]
+  },
+  {
+    "slug": "vila-mariana",
+    "nome": "Vila Mariana",
+    "prep": "na",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Saúde",
+      "Ipiranga",
+      "Paraíso",
+      "Vila Clementino"
+    ],
+    "referenciaLocal": "Atendemos a Vila Mariana, das reformas em apartamentos próximos ao Metrô Ana Rosa às obras em casas e clínicas das ruas residenciais do bairro.",
+    "faq": [
+      {
+        "q": "Fazem entrega rápida de caçamba na Vila Mariana?",
+        "a": "Sim. Para a Vila Mariana e bairros vizinhos da Zona Sul conseguimos entrega no mesmo dia conforme a disponibilidade da frota."
+      },
+      {
+        "q": "Vocês cuidam do descarte do entulho?",
+        "a": "Cuidamos. O entulho recolhido vai para aterro licenciado, com destinação regularizada já inclusa no serviço da caçamba."
+      }
+    ]
+  }
+]

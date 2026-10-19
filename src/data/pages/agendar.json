@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Peça seu orçamento — Caçamba SP",
+    "description": "Solicite orçamento de aluguel de caçamba para obra, reforma ou limpeza de terreno em São Paulo. Entrega rápida e descarte regularizado."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Peça seu orçamento",
+      "title": "Orçamento na hora, em três etapas simples.",
+      "lead": "Informe o endereço e o tipo de entulho — a gente entrega a caçamba no prazo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Orçamento", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do pedido à retirada.",
+      "steps": [
+        { "n": "01", "title": "Pedido", "text": "Envie o endereço e o tipo de entulho pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Entrega", "text": "Levamos a caçamba ao ponto combinado, no prazo." },
+        { "n": "03", "title": "Retirada", "text": "Recolhemos a caçamba assim que você avisa que encheu." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba seu orçamento.",
+      "services": ["Aluguel de caçamba", "Caçamba para reforma", "Caçamba para obra", "Caçamba 3m³", "Caçamba 5m³", "Retirada de entulho", "Caçamba para construtoras", "Descarte de resíduos", "Caçamba para limpeza de terreno"]
+    }}
+  ]
+}

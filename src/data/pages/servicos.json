@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Serviços de aluguel de caçamba — Caçamba SP",
+    "description": "Aluguel de caçamba para obra, reforma e limpeza de terreno em São Paulo. Caçambas de 3m³ e 5m³, retirada de entulho e descarte regularizado. Peça seu orçamento."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos serviços",
+      "title": "Caçamba para cada tipo de entulho.",
+      "lead": "Da reforma de um cômodo à obra de construção — entregamos a caçamba certa, retiramos no prazo e damos a destinação correta ao material.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Serviços", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Pedir orçamento", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que nos escolher",
+      "title": "Entrega rápida e descarte regularizado.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Frota própria", "text": "Caminhões e caçambas próprios para entrega ágil." },
+        { "title": "Entrega no mesmo dia", "text": "Disponibilidade para grande parte de São Paulo." },
+        { "title": "Vários tamanhos", "text": "Caçambas de 3m³, 4m³ e 5m³ para cada volume." },
+        { "title": "Retirada no prazo", "text": "Recolhemos assim que a caçamba enche." },
+        { "title": "Descarte legal", "text": "Destinação em aterro licenciado já inclusa." },
+        { "title": "Orçamento na hora", "text": "Valor fechado pelo WhatsApp, sem compromisso." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Aluguel de caçamba", "Caçamba para reforma", "Caçamba para obra", "Caçamba 3m³", "Caçamba 5m³", "Retirada de entulho", "Caçamba para construtoras", "Descarte de resíduos", "Caçamba para limpeza de terreno"]
+    }}
+  ]
+}
